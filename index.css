@@ -73,6 +73,7 @@ body{
     #text-description h1{
         color: #fff !important;
         margin-bottom: 30px;
+        font-weight: 300;
     }
     #text-description p{
         color: #dfdfdf;
