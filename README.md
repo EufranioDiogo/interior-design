@@ -29,10 +29,10 @@
 
 <h2 id="images">Imagens / Images</h2>
 
-![cheease cake result page image](IMG/)
+![cheease cake result page image](./IMAGES/Interior%20Consultant.png)
 
+![cheease cake result page image](./IMAGES/Interior%20Consultant%20Mobile.png)
 ## Source of Ideia / Origem da Ideia?
 [DevChallenges.io](https://devchallenges.io)
 
-// git commit -m "Updating the repo all senses, movings files to respectives directories, correct links, and working well"
 
